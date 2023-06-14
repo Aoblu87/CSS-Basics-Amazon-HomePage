@@ -1,0 +1,335 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+#topbar {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+#logo {
+    margin: 0%;
+    padding: 0.3em;
+    background-color: #1b2634;
+
+
+}
+
+#logo img {
+    margin: 0%;
+    padding-left: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.4em;
+    width: 9%;
+
+}
+
+#menu {
+    margin: 0%;
+    padding: 0.6em 1em;
+    background-color: #2d4055;
+    display: flex;
+}
+
+#menu h3 {
+    margin: 0%;
+    padding: 0 0.4em;
+    color: white;
+    font-weight: normal;
+    font-size: 12.5pt;
+}
+
+#main {
+    margin: 0%;
+    padding: 0.1em;
+    background-color: #EAEDED;
+    height: 100%;
+    width: 100%;
+
+}
+
+#small-bar {
+    margin: 1.5em;
+    padding: 0.7em;
+    background-color: #F56602;
+}
+
+#small-bar h3 {
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 12.5pt;
+}
+
+#big-bar {
+    margin: 1.5em;
+    padding-top: 1.5em;
+    background-image: url(./assets/bg-image.png);
+    height: 23vh;
+
+
+}
+
+#big-bar h1 {
+    color: white;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+#big-bar h2 {
+    color: white;
+    text-align: center;
+    font-size: 14pt;
+    font-weight: 400;
+
+}
+
+#small-image {
+    margin: 1.5em;
+    padding: 0.9em 1.3em;
+    background-color: white;
+
+
+}
+#horizontal-img{
+    margin: 0.3em;
+    padding: 0.3em 0.5em;
+    display: flex;
+    justify-content: center;
+}
+
+#horizontal-img img{
+
+    margin: 0.5em;
+    padding: 0.5 0.3em;
+    width: 24%;
+}
+
+#small-image span {
+    margin: 0%;
+    padding-left: 0.6em;
+    padding-top: 0.2em;
+    padding-right: 0.3em;
+    font-size: 13pt;
+    letter-spacing: 1px;
+}
+
+#small-image a {
+    margin: 0%;
+    padding-left: 0.5em;
+    font-size: 11pt;
+    color: #2F6E60;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#big-image {
+    margin: 1.5em;
+    padding: 0%;
+
+
+}
+
+#big-image img {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+#big-image p {
+    padding-left: 1em;
+    padding-top: 0.2em;
+    padding-right: 0.3em;
+    font-size: 13pt;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
+
+#big-image a {
+    margin: 0%;
+    padding-left: 0.5em;
+    font-size: 11pt;
+    color: #2F6E60;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.big-img {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+
+}
+
+.subtitle {
+    padding-left: 1em;
+    padding-top: 0.2em;
+    padding-right: 0.3em;
+    font-size: 12pt;
+    letter-spacing: 1px;
+
+}
+
+#footer {
+    margin: 0%;
+    padding: 0%;
+}
+
+#back-to-menu {
+    margin: 0%;
+    padding: 0.6em 1em;
+    background-color: #2d4055;
+
+}
+
+#back-to-menu a {
+
+    color: white;
+
+
+}
+
+#back-to-menu p {
+    margin: 0%;
+    padding-left: 0.5em;
+    font-size: 11pt;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#homepage {
+    margin: 0%;
+    padding: 0.3em;
+    background-color: #1b2634;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#homepage img {
+    margin: 2em;
+    padding: 0%;
+    width: 10%;
+
+}
+
+ #promo{
+    margin: 1.5em;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+}
+.box{
+    margin: 1em;
+    padding: 0.5em;
+    background-color: white;
+   
+}
+#promo img{
+    margin: 0%;
+    padding: 0%;
+    width: 50%;
+    
+
+}
+.img-top{
+    display: flex;
+}
+.img-bottom{
+    display: flex;
+}
+
+.box h3{
+   margin: 0%;
+   padding: 0.5em;
+
+}
+.box a{
+    color: #2F6E60;
+    text-decoration: none;
+
+}
+.link{
+    margin: 0.3em;
+    padding: 0.7em;
+    
+ 
+}
+.description{
+    margin: 0%;
+    padding: 0%;
+   
+}
+#headset{
+    margin: 0%;
+    padding: 0.5em;
+}
+#keyboards{
+    margin: 0%;
+    padding: 3.3em;
+}
+#chairs{
+    margin: 0%;
+    padding: 2em;
+}
+#sweatshirts{
+  
+        margin: 0%;
+        padding: 0.9em;
+    }
+
+    #joggers{
+        margin: 0%;
+        padding: 2em;
+    }
+    #cardigans{
+        margin: 0%;
+        padding: 0.7em;
+    }
+    #tees{
+        margin: 0%;
+        padding: 3em;
+    }
+    #electronics{
+        margin: 0%;
+        padding: 0.8em;
+    }
+    #fashion{
+        margin: 0%;
+        padding: 2em;
+    }
+    #toys{
+        margin: 0%;
+        padding: 0.8em;
+    }
+    #beauty{
+        margin: 0%;
+        padding: 5em;
+    }
+    #holiday{
+        margin: 0%;
+        padding: 0.8em;
+    }
+    #elect-gift{
+        margin: 0%;
+        padding: 0.8em;
+    }
+    #home-gift{
+        margin: 0%;
+        padding: 0.8em;
+    }
+    #fashion-gift{
+        margin: 0%;
+        padding: 2.1em;
+    }
+
