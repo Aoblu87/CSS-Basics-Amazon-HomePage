@@ -1,6 +1,6 @@
 # Welcome to the Amazon Homepage Challenge! 🛒🚀
 
-## M1 Intro to Web Development Exercise 2: Brought to you by [EPICODE](epicode.com) 🤓📚
+## M1 Intro to Web Development Exercise 2: Brought to you by [EPICODE](https://epicode.com/it/) 🤓📚
 
 ### Your Epic Mission: Create Amazon Homepage 🏗️🛍️
 
